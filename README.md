@@ -1,11 +1,13 @@
-1. Install dependencies
+### Disaster Preparedness and Response App
 
-   ```bash
+#### Technologies Used
+- React Native (Expo)
+- AsyncStorage
+- Expo Router
+
+#### How to Run
+1. Install dependencies:
    npm install
-   ```
 
-2. Start the app
-
-   ```bash
+2. Start the app:
    npx expo start
-   ```
